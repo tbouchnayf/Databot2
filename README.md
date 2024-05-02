@@ -20,8 +20,7 @@ Clone this repository to your local machine to get started:
 
 bash
 Copy code
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/yourusername/yourrepository](https://github.com/tbouchnayf/Databot2.git
 Usage
 Run the main script to generate datasets and launch the Gradio interface:
 
